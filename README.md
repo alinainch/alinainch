@@ -4,6 +4,8 @@ Software Engineer @resilientcoders
 
 Portfolio: https://alinainch.netlify.app/
 
+LinkedIn: https://www.linkedin.com/in/alina-inchaustegui/
+
 Twitter: https://twitter.com/alinainch
 
 
