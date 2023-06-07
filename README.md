@@ -6,7 +6,7 @@ Hi there 👋🏽 I'm Alina!
 
 🔭 I’m currently working on a client's portfolio site.
 
-🌱 I’m currently learning React.js
+🌱 I’m currently learning React
 
 📫 How to reach me alinainchaustegui@gmail.com 
 
