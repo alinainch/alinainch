@@ -8,6 +8,6 @@ Hi there 👋🏽 I'm Alina!
 
 🌱 I’m currently learning React
 
-📫 How to reach me alinainchaustegui@gmail.com 
+📫 How to reach me: alinainchaustegui@gmail.com
 
 As a software engineer, I bring a collaborative spirit, a curious mind, and unwavering dedication to problem-solving. With experience in environmental data analysis and development of implementation plans, I am results-driven and eager to contribute to your engineering team's success.
